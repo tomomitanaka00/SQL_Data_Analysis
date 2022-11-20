@@ -1,3 +1,5 @@
+Start with the data in the customers table.
+
 SELECT * 
 FROM salespeople 
 WHERE dealership_id = 17 
